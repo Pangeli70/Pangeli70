@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pangeli70
-- 👀 I’m interested in Node, Deno, Angular, Unity 
+- 👀 I’m interested in Deno, Deno Deploy 
 - 🌱 I’m currently learning all the above
-- 💞️ I’m looking to collaborate on some projects related with interests of mine
+- 💞️ I’m looking for friends to collaborate on projects of common interest
 - 📫 How to reach me: here on github!
 
 <!---
