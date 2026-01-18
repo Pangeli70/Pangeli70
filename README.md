@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pangeli70 aka APG
-- 👀 I’m interested in Deno, Deno Deploy 
+- 👀 I’m interested in Typescript, Deno, Deno Deploy, Fresh, Preact, Three.js 
 - 🌱 I’m currently learning all the above
 - 💞️ I’m looking for friends to collaborate on projects of common interest
 - 📫 How to reach me: here on GitHub!
